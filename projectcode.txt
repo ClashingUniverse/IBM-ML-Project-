@@ -1,0 +1,45 @@
+import requests
+
+
+
+
+header = {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + mltoken}
+
+
+
+\# NOTE:  manually define and pass the array(s) of values to be scored in the next line
+
+payload\_scoring = {"input\_data": \[
+
+&nbsp;	{
+
+&nbsp;		"fields": \[array\_of\_input\_fields],
+
+&nbsp;		"values": \[array\_of\_values\_to\_be\_scored, another\_array\_of\_values\_to\_be\_scored]
+
+&nbsp;	}
+
+]}
+
+
+
+response\_scoring = requests.post('https://private.eu-gb.ml.cloud.ibm.com/ml/v4/deployments/e2237caf-b5f0-44c1-9a44-5dcd6ef429a2/predictions?version=2021-05-01', json=payload\_scoring,
+
+&nbsp;headers={'Authorization': 'Bearer ' + mltoken})
+
+
+
+print("Scoring response")
+
+try:
+
+&nbsp;   print(response\_scoring.json())
+
+except ValueError:
+
+&nbsp;   print(response\_scoring.text)
+
+except Exception as e:
+
+&nbsp;   print(f"An unexpected error occurred: {e}")
+
