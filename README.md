@@ -1,4 +1,5 @@
-# IBM-ML-Project-
+# IBM-ML-Project 
+# Edunet Foundation
 # ⚡ Power System Fault Detection and Classification using Machine Learning
 
 ## 🔎 Introduction
