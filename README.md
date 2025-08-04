@@ -101,19 +101,23 @@ Used for model development, training, testing, and visualization.
 
 The model successfully predicts different types of power system faults with high accuracy using Random Forest Classifier and can be enhanced with SVM depending on performance needs.
 
-> Model Preview
+## 🔹 Progress Map 1
 <img width="1898" height="906" alt="Screenshot 2025-07-25 165843" src="https://github.com/user-attachments/assets/8ae1d339-05c8-49ad-8f41-6bb4033bcfcb" />
 
->Model Preview as Pipeline Diagram
+
+## 🔹 Progress Map 2
 <img width="1899" height="907" alt="Screenshot 2025-07-25 165905" src="https://github.com/user-attachments/assets/24e51d73-1aeb-4044-af4a-c50e8089beb5" />
 
->Pipelines
+
+## 🔹 Metric Chart
 <img width="1893" height="904" alt="Screenshot 2025-07-25 165921" src="https://github.com/user-attachments/assets/5ef3b6d4-b7af-49b1-a20b-d3d7d755e5a2" />
 
->Data-Entry and Testing
+
+## 🔹 Testing and Predicting
 <img width="1915" height="906" alt="Screenshot 2025-07-26 194908" src="https://github.com/user-attachments/assets/9800fe91-8684-4a33-9f93-e9c4d91d1c02" />
 
->Prediction
+
+## 🔹 Results
 <img width="1890" height="910" alt="Screenshot 2025-07-26 194844" src="https://github.com/user-attachments/assets/1c1d4494-a332-46a2-8994-ef8da3e0c4a0" />
 
 ---
