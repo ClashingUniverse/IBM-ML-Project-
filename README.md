@@ -101,7 +101,7 @@ Used for model development, training, testing, and visualization.
 
 The model successfully predicts different types of power system faults with high accuracy using Random Forest Classifier and can be enhanced with SVM depending on performance needs.
 
-> 
+> ![Model Preview](Screenshot 2025-07-25 165843.png)
 
 ---
 
