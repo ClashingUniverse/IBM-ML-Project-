@@ -121,6 +121,10 @@ The model successfully predicts different types of power system faults with high
 ## 🔹 Results
 <img width="1890" height="910" alt="Screenshot 2025-07-26 194844" src="https://github.com/user-attachments/assets/1c1d4494-a332-46a2-8994-ef8da3e0c4a0" />
 
+
+
+![IMG-20250810-WA0002 (1)](https://github.com/user-attachments/assets/7491aa07-2f6f-4dcc-9794-c9b7724eaaba)
+
 ---
 
 
